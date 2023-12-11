@@ -1,0 +1,29 @@
+h1.removed{
+    display:none;
+    border: 2px solid blue;
+}
+
+h1.hidden{
+    visibility: hidden;
+    border: 2px solid gray;
+}
+
+/*li versão inline*/
+li{
+    display: inline;
+}
+
+/*spam versão em bloco*/
+span{
+    display:block;
+}
+
+img{
+    opacity: 0.4;
+    width: 300px;
+    height: 300px;
+}
+
+img:hover{
+    opacity: 1.0;
+}

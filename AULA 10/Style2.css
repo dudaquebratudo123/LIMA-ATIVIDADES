@@ -1,0 +1,10 @@
+#cabecalho {
+    text-align: center;
+    color:rgb(0, 0, 0);
+    background-size: 50% 50%;}
+
+body {
+    background-image: url(img/kaykay.jpg);
+    background-size: 50%;
+}
+

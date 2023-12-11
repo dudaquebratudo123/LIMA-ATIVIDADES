@@ -1,0 +1,6 @@
+div {
+    background-image: url("img/hello.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+

@@ -1,0 +1,73 @@
+body{
+    background-color: rgb(37, 37, 132);
+    font-size: 20px;
+    color: aliceblue;
+}
+
+.conteiner{
+    height: 100%;
+}
+
+#Header{
+    background-color: rgb(152, 148, 148);
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#Navigation{
+    background-color: rgb(109, 116, 243);
+    height: 60px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+#Maincontent{
+    background-color: rgb(175, 110, 235);
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 10px;
+    height: 500px;
+    width: 75%;
+}
+
+.Article{
+    background-color: rgb(56, 20, 186);
+    width: 300px;
+    height: 150px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#caixona{
+    width: 100%;
+    display: flex;
+}
+
+#sidebar{
+    background-color: rgb(130, 21, 152);
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#rodape{
+    background-color: rgb(92, 92, 92);
+    margin-top: 10px;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

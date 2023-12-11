@@ -1,0 +1,63 @@
+.dazul{
+    background-color: blue;
+    border: 2px solid black;
+    width: 200px;
+    height: 200px;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.texto1{
+    position: absolute;
+    color: aliceblue;
+    margin-top: 80px;
+    margin-left: 40px;
+}
+
+.droxo{
+    background-color: rgb(147, 35, 185);
+    border: 2px solid black;
+    width: 200px;
+    height: 200px;
+    margin-left: 1320px;
+    margin-top: -200px;
+}
+
+.texto2{
+    position: absolute;
+    color: aliceblue;
+    margin-top: 80px;
+    margin-left: 50px;
+}
+
+.drosa{
+    background-color: rgb(185, 35, 130);
+    border: 2px solid black;
+    width: 200px;
+    height: 200px;
+    margin-left: 1320px;
+    margin-top: 150px;
+}
+
+.texto3{
+    position: absolute;
+    color: aliceblue;
+    margin-top: 85px;
+    margin-left: 40px;
+}
+
+
+.damarelo{
+    background-color: rgb(215, 224, 79);
+    border: 2px solid black;
+    width: 200px;
+    height: 200px;
+    margin-left: 0px;
+    margin-top: -210px;
+}
+
+.texto4{
+    position: absolute;
+    color: aliceblue;
+    margin-top: 85px;
+    margin-left: 40px;
+}

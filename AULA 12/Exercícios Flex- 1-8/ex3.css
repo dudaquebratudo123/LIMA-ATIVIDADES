@@ -1,0 +1,42 @@
+.conteiner{
+    display: flex;
+    flex-direction: column;
+    align-content: space-between;
+    justify-content: space-between;
+    height: 1000px;
+    width: 100%;
+}
+
+.linha1, .linha2 {
+    display: flex;
+    justify-content: space-between;
+    align-content: space-between;
+}
+
+#red{
+    background-color: red;
+    box-sizing: border-box;
+    width: 100px;
+    height: 100px;
+}
+
+#blue{
+    background-color: rgb(55, 0, 255);
+    box-sizing: border-box;
+    width: 100px;
+    height: 100px;
+}
+
+#green{
+    background-color: rgb(48, 162, 60);
+    box-sizing: border-box;
+    width: 100px;
+    height: 100px;
+}
+
+#yellow{
+    background-color: rgb(234, 255, 0);
+    box-sizing: border-box;
+    width: 100px;
+    height: 100px;
+}

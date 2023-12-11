@@ -1,0 +1,17 @@
+#borda{
+    border:1px solid rgb(155, 154, 154);
+    height: 50px;
+}
+
+#texto{
+    border: 1px solid rgb(164, 164, 164);
+    text-align: center;
+}
+
+#enviar{
+    background-color: rgb(51, 228, 101);
+}
+
+#limpar{
+    background-color: rgb(230, 64, 64);
+}

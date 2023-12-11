@@ -1,0 +1,32 @@
+<html>
+
+<head>
+<meta charset="UTF-8">
+<title> Brownie </title>
+</head> 
+
+<body>
+<center>
+
+	<h1> Receita de Brownie <h1>
+	<hr>
+	<img src="doces/brownie.JPG"height="300">
+
+	<h3> Ingredientes: </h3>
+	<p> Manteiga </p>
+	<p>Ovo </p>
+	<p>Achocolatado </p>
+ 	<p>Açúcar </p>
+	<p>Farinha de trigo </p>
+	
+	<h3> Modo de preparo: </h3>
+	<p> Derreta a manteiga e reserve </p>
+	<p> Enquanto derrete a manteiga, misture os 3 ovos e a açúcar e misture bem </p>
+	<p> Acrescente a manteiga derretida no ovo e o açúcar </p>
+	<p> Agora é so misturar o achocolatado e o trigo </p>
+ 	<p> Unte uma forma com manteiga e achocolatado e leve ao forno a 180° C por 30 minutos </p>
+
+</body>
+</html>
+	
+	

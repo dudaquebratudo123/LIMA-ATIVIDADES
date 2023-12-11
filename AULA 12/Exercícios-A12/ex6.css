@@ -1,0 +1,13 @@
+button:hover{
+    background-color:rgb(195, 132, 255);
+    color:aliceblue;
+    border-radius: 5px;
+}
+
+button{
+    border-radius: 5px;
+    border: hidden;
+    background-color: rgb(97, 23, 165);
+    color: aliceblue;
+}
+

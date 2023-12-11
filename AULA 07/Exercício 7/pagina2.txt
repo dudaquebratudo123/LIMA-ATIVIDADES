@@ -1,0 +1,31 @@
+<html>
+
+<head>
+<meta charset="UTF-8">
+<title> Brownie </title>
+</head> 
+
+<body>
+<center>
+
+	<h1> Receita de Banoffee <h1>
+	<hr>
+	<img src="doces_2/banoffe.JPG"height="300">
+
+	<h3> Ingredientes: </h3>
+	<p> Doce de leite </p>
+	<p> Banana </p>
+	<p> Nata </p>
+ 	<p> Biscoito maisena </p>
+	<p> Manteira </p>
+	<p> Canela em pó </p>
+	
+	<h3> Modo de preparo: </h3>
+	<p> Misture o biscoito triturado (tipo farinha, bem fininho) com a margarina culinária, com a ponta dos dedos, até formar uma massa lisa. Forre o fundo de uma forma de abrir (fundo falso), e asse por apenas 10 minutos, em forno preaquecido a 180°C. Retire. Deixe a massa esfriar. </p>
+	<p> Coloque o doce de leite sobre a massa já fria. Alise para ficar plano. </p>
+	<p> Acrescente a manteiga derretida no ovo e o açúcar </p>
+	<p> Agora é so misturar o achocolatado e o trigo </p>
+ 	<p> Unte uma forma com manteiga e achocolatado e leve ao forno a 180° C por 30 minutos </p>
+
+</body>
+</html>

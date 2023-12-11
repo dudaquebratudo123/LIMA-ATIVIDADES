@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(153, 101, 65);
+    color: white;
+}
+
+h1{
+    text-align: center;
+
+}
+
+.img{
+    height: 400px;
+    width: 600px;
+    position: relative;
+    left:100px;
+    top: 100px;
+}
+
+.div{
+    color: white;
+    width: 400px;
+    height: 200px;
+    margin-left: 860px;
+    margin-top: -240px;
+    font-size: 20px;
+    text-align:center;
+}
+
+.texto{
+    border-width: 10px;
+    border-style: double;
+    border-color: white;
+    width: 300px;
+    height: 200px;
+}

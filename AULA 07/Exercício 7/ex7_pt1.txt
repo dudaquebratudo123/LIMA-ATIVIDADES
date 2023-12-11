@@ -1,0 +1,74 @@
+<html>
+
+<head>
+<meta charset="UTF-8">
+<title> . </title>
+</head> 
+
+<body>
+<table>
+	<hr>
+	<hr>
+	<hr>
+	<hr>
+	<hr>
+	<hr>
+	<hr>
+	<hr>
+	<hr>
+	<hr>
+	<hr>
+	<hr>
+	
+	<h1><center> Maria Doceria </center></h1>
+	<hr>
+	<hr>
+	<p><center> Cardápio A</center></p>
+
+	<tr>
+
+	<td> </td>
+
+	<a href="https://www.tudogostoso.com.br/receita/306823-brownie-simples-e-rapido.html">
+	<img src="doces/brownie.JPG"height="210">
+	</a>
+	&nbsp&nbsp&nbsp
+
+ 	<a href="https://www.tudogostoso.com.br/receita/141054-torta-de-banana-banoffee.html">
+	<img src="doces/banoffe.JPG"height="210">
+	</a>
+	&nbsp&nbsp&nbsp
+	
+	<a href="https://anamariabraga.globo.com/receita/chescake-de-frutas-vermelhas/">
+	<img src="doces/cheesecake.JPG"height="210">
+	&nbsp&nbsp&nbsp
+	</a>
+
+	<a href="https://www.tudogostoso.com.br/receita/104383-torta-de-limao.html">
+	<img src="doces/torta.limão.JPG"height="210">
+	&nbsp&nbsp&nbsp
+	</a>
+
+	</tr>
+
+	<tr>
+
+	&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+
+	<a href="https://www.tudogostoso.com.br/receita/306823-brownie-simples-e-rapido.html">Brownie</a>
+	&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+
+	<a href="https://www.tudogostoso.com.br/receita/141054-torta-de-banana-banoffee.html">Banoffe</a>
+	&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp	
+
+	<a href="https://anamariabraga.globo.com/receita/chescake-de-frutas-vermelhas/l">Cheesecake de frutas vermelhas</a>
+	&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+	
+	<a href="https://www.tudogostoso.com.br/receita/104383-torta-de-limao.html">Torta de limão</a>
+	
+	
+	</tr>
+
+</table>
+</body>
+</html>

@@ -1,0 +1,100 @@
+body{
+    background-color: rgb(219, 180, 255);
+}
+
+.cabeçalho{
+    background-color: rgb(139, 69, 205);
+    border-bottom:5px solid rgb(77, 77, 77);
+    color: white;
+    display: flex;
+    flex-direction: row;
+    height: 100px;
+}
+
+#flor-c{
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    padding-top: 10px;
+    width: 90px;
+    height:80px;
+}
+
+#home, #info, #carrin {
+    margin-left: 50px;
+    padding: 60px;
+    padding-top: 30px;
+    width: 40px;
+    height:40px;
+}
+
+#flores-op{
+    background-color: rgb(216, 194, 237);
+    border-radius: 6px;
+    margin-top: 35px;
+    margin-left:90px;
+    width: 110px;
+    height: 32px;
+}
+
+#label{
+    background-color: rgb(216, 194, 237);
+    border-radius: 2px solid black;
+    margin-top: 36px;
+    margin-left:110px;
+}
+
+/*menu canto superior direito*/
+#menu{
+    width: 40px;
+    height:40px;
+    padding: 40px;
+    padding-top: 15px;
+}
+
+.dropbtn{
+    background-color:rgb(139, 69, 205);;
+    border: none;
+    padding: 16px;
+    margin-left: 10px;
+    height:20px;
+}
+    
+.dropdown-content{
+    display: none;
+    position: absolute;
+    background-color: rgb(200, 126, 240);
+    min-width: 150px;
+    margin-left:20px;
+    }
+    
+.dropdown-content a{
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+    
+.dropdown-content a:hover{
+    background-color: rgb(194, 192, 201);
+}
+    
+.dropdown:hover .dropdown-content{
+    display: block;
+}
+
+/*corpo*/
+.corpo{
+ height: 100%;
+}
+
+.imgs{
+    width:200px;
+    height:200px; 
+    padding: 45px;
+}
+
+#ofertas, #maisvendidos, #recomendados{
+    display:flex;
+    flex-direction:row;
+}

@@ -1,0 +1,21 @@
+p {
+    font-size: 12pt
+}
+
+p::first-line{
+    color:blue; 
+    font-variant:small-caps;
+}
+
+h1::before {
+    content:url(img/hello.jpg)
+}
+h1::after {
+    content:url(img/moranguinho.jpg)
+}
+
+p::selection {
+    color: rgb(223, 67, 163);
+    background: yellow;
+}
+

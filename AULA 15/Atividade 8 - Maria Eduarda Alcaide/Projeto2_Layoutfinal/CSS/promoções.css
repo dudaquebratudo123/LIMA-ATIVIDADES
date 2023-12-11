@@ -1,0 +1,231 @@
+@import url('https://fonts.googleapis.com/css2?family=Milonga&display=swap');
+
+body{
+    background-image:linear-gradient(to bottom,#c787ff, #69a4e0);
+    font-family: 'Milonga', cursive;
+    font-size: 40px;
+}
+
+.conteiner{
+    width: 100%;
+    height: 1080px;
+}
+
+/*cabeçalho*/
+
+#cabeçalho{
+    display: flex;
+    background-color: white;
+    width: 101%;
+    height: 75px;
+    margin-top: -8px;
+    margin-left: -8px;
+}
+
+#lupa{
+    width:30px;
+    height:30px;
+    padding-left: 40px;
+    padding-top: 15px;
+}
+
+#label{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    border-radius: 15px;
+    width:1100px;
+    height: 25px;
+    margin-top: 20px;
+    margin-left:40px;
+}
+
+#monitor{
+    display: flex;
+    flex-direction:row;
+    align-items: flex-end;
+    padding-left: 60px;
+    padding-top: 10px;
+    width:50px;
+    height:50px;
+}
+
+#menu{
+    width:50px;
+    height:50px;
+    padding-left: 70px;
+    padding-top: 10px;
+}
+
+/*corpo 1*/
+
+#corpo1{
+    display: flex;
+    width: 100%;
+    height: 150px;
+}
+
+#personabags{
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    padding-left: 80px;
+    width:130px;
+    height:120px;
+}
+
+#txt1-c1{
+    display: flex;
+    align-self: center;
+    font-weight: bold;
+    padding: 50px;
+    padding-top: 20px;
+}
+
+#txt2-c1{
+    margin-top: 100px;
+    margin-left: -300px;
+    color: white;
+    font-size: 20px;
+}
+
+/*corpo 2*/
+
+#corpo2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 100px;
+    margin-top: -20px;
+    width: 1200px;
+    height: 150px;
+}
+
+.outras-pag{
+    background-color: aqua;
+    border-radius: 20px;
+    width: 200px;
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+#lupa2{
+    width: 70px;
+    height: 70px;
+}
+
+#hr{
+    border: 1px solid aqua;
+    width: 1170px;
+    margin-top:30px;
+    margin-left: 120px;
+}
+
+/*corpo 3*/
+#corpo3{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 500px;
+}
+
+#txt1-c3{
+    display: flex;
+    justify-content: center;
+    width: 90%;
+    height: 100px;
+}
+
+#itens{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 60%;
+    margin-left: 230px;
+    margin-top: 30px;
+    height: 550px;
+}
+
+
+.caixa-de-produto{
+    background-color: white;
+    width: 160px;
+    height: 200px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction:column; 
+    align-items: center;
+    justify-content: center;  
+}
+
+.bolsas{
+    display: flex;
+    width: 100px;
+    height: 100px;
+    margin-top: 50px;
+}
+
+.a-partir{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding-top: 20px;
+}
+
+.preço{
+    display: flex;
+    background-color: wheat;
+    margin-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+#itens2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 60%;
+    margin-left: 230px;
+    height: 500px;
+}
+
+
+#txt2-c3{
+    background-color: rgb(255, 228, 228);
+    width: 220px;
+    height: 90px;
+    border-radius: 40px;
+    display: flex;
+    flex-direction:column; 
+    align-items: center;
+    justify-content: center;  
+    font-size: 20px;
+}
+
+
+/*corpo 4*/
+.corpo4{
+    width: 1170px;
+    margin-left: 120px;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 80px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#hr2{
+    border: 1px solid rgb(130, 0, 186);
+    width: 1170px;
+    margin-top: 20px;
+    margin-left: 120px;
+}
+
+/*formas geométricas*/
+

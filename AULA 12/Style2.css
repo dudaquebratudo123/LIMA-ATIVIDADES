@@ -1,0 +1,111 @@
+/*texto*/
+.dire{
+    float:right;
+}
+
+.esq{
+    float: left;
+}
+
+/*imagem*/
+.img{
+    float:center;
+    position: absolute;
+    right: 511px;
+    height: 485px;
+    width: 485px;
+    border: 2px solid black;
+}
+
+/*divs*/
+.divcinza {
+    background-color: #74746e;
+    width: 500px;
+    height: 500px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.divverde {
+    background-color: rgb(99, 143, 101);
+    width: 500px;
+    height: 500px;
+    margin-top: -500px;
+    margin-left: 1000px;
+}
+
+/* menu da aula 11*/
+.vertical-menu{
+    text-align: center;
+    margin-left: 100px;
+    background-color: #333331;
+    color: rgb(8, 10, 12);
+    height: 100px;
+    width: 300px;
+    position: relative;
+    top:150px;
+}
+
+.vertical-menu a{
+    background-color: #eee;
+    color: black;
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+}
+
+.vertical-menu a:hover{
+    background-color: #b0b0b0;
+}
+
+.vertical-menu a.active{
+    background-color: rgb(56, 56, 55);
+    color: rgb(255, 255, 255);
+}
+
+/*menu da aula 12*/
+.dropbtn{
+   
+    background-color: rgb(39, 137, 76);
+    color: rgb(255, 255, 255);
+    padding: 16px;
+    font-size: px;
+    border: none;
+    
+}
+
+.dropdown{
+    position: relative;
+    display: inline-block;
+    margin-left: 200px;
+    margin-top: 200px;
+}
+
+.dropdown-content{
+    display: none;
+    position: absolute;
+    background-color: rgb(58, 198, 119);
+    min-width: 150px;
+    box-shadow: 0px 0px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a{
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover{
+    background-color: rgb(184, 184, 184);
+}
+
+.dropdown:hover .dropbtn{
+    background-color: rgb(197, 190, 190);
+}
+
+.dropdown:hover .dropdown-content{
+    display: block;
+    
+}

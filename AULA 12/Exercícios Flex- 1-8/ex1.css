@@ -1,0 +1,30 @@
+body{
+    background-color: gray;
+}
+.conteiner{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: 500px;
+    border: outset 2px rgb(237, 238, 240);
+}
+
+#caixatexto{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding:30px;
+    width: 500px;
+    height: 400px;
+    border: 4px dotted rgb(200, 100, 198);
+}

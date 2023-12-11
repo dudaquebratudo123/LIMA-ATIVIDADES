@@ -1,0 +1,10 @@
+body{
+    background-image: url(img/roxo.jpg);
+    background-size: cover;
+}
+
+.div{
+    color: aliceblue;
+    margin-top: 100px;
+    margin-left: 700px;
+}
